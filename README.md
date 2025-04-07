@@ -17,15 +17,11 @@ Prometheus is a powerful system information and hardware identification tool bui
 - **Command History**: Keep track of your command usage
 - **Customizable UI**: Change themes to suit your preferences
 
-## Screenshots
-
-*[Add screenshots here]*
-
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/prometheus.git
+git clone https://github.com/rescore09/prometheus.git
 ```
 
 2. Navigate to the directory:
@@ -84,11 +80,8 @@ Any other input will be executed as a system command.
 
 ## License
 
-[Add your license here]
+MIT LICENSE
 
-## Contributing
-
-[Add contribution guidelines if applicable]
 
 ## Disclaimer
 
